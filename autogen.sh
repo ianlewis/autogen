@@ -356,7 +356,7 @@ function autogenForFile() {
       printFileCommentTemplate "%"
       ;;
 
-    *.hs)
+    *.hs | *.lua)
       printLicenseNonHashComment "--"
       printFileCommentTemplate "--"
       ;;
