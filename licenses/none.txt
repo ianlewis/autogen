@@ -1,0 +1,3 @@
+Copyright %YEAR% %COPYRIGHT_HOLDER%
+
+All rights reserved.
